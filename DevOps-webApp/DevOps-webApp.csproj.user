@@ -8,7 +8,7 @@
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
     <UseGlobalApplicationHostFile />
-    <LastActiveSolutionConfig>Release|Any CPU</LastActiveSolutionConfig>
+    <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
     <ActiveDebugTarget>ContainerToolsProjectDebugExtension</ActiveDebugTarget>
     <NameOfLastUsedPublishProfile>C:\Users\TACME\source\repos\DevOps-webApp\DevOps-webApp\Properties\PublishProfiles\DevOps-webApp20220429021529 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
